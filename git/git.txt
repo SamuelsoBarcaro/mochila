@@ -1,0 +1,8 @@
+COMANDO GIT
+- git -> Inicia um repositório
+- git add . -> Adiciona todos os arquivos no repositório
+- git commit -m "comentario do comit" -> faz um commit
+- git checkout -b nomeDaBranch - troca de branch criando caso não exista
+- git marge noma nomeDaBranch -> junta a branch com a atual
+- git remote -> trata de repositório em nuvem
+- git push origin main -> empurrar nossa branch para o Github
