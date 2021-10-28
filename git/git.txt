@@ -6,3 +6,9 @@ COMANDO GIT
 - git marge noma nomeDaBranch -> junta a branch com a atual
 - git remote -> trata de repositório em nuvem
 - git push origin main -> empurrar nossa branch para o Github
+
+Processos do dia a dia
+
+criar .gitignore
+. git status
+. git add .
