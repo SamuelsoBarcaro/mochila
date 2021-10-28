@@ -10,5 +10,7 @@ COMANDO GIT
 Processos do dia a dia
 
 criar .gitignore
-. git status
-. git add .
+. git status (estatus do repositório)
+. git add . (adiciona/reapra os aquivos)
+- git commit -m "discricao do commit" (cria um comit)
+- git push (sobre para o github)
