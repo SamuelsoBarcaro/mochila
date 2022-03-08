@@ -1,10 +1,14 @@
 
 h1 {
-    color: red;
+    color: #005C78;
 }
 
 p {
-    color: red;
+    color: #005C78;
     font-size: 30px;
     font-weight: bold;
+}
+
+img {
+    width: 90%;
 }
